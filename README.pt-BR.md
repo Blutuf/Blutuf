@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets" alt="Leonardo Banner">
+</p>
+
 # Olá, eu sou o Leonardo! 👋
 
 <p align="center">
