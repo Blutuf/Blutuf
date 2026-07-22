@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets" alt="Leonardo Banner">
+  </p>
+  
 # 👋 Hi, I'm Leonardo
 
 ### Front-end Developer from Brazil 🇧🇷
