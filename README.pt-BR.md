@@ -1,7 +1,7 @@
 # Olá, eu sou o Leonardo! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end+em+Evolução;Aprendendo+HTML%2C+CSS+e+JavaScript;Criando+Sites+Modernos;Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end+em+Evolu%C3%A7%C3%A3o;Aprendendo+HTML%2C+CSS+e+JavaScript;Criando+Sites+Modernos;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 <p align="center">
