@@ -5,11 +5,16 @@
 </p>
 
 <p align="center">
+  <b>🌐 Escolha o idioma</b><br><br>
+
   <a href="README.md">
-    <img src="https://img.shields.io/badge/🇺🇸-English-1F6FEB?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🇺🇸-English-1F6FEB?style=for-the-badge" />
+  </a>
+
+  <a href="README.pt-BR.md">
+    <img src="https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge" />
   </a>
 </p>
-
 ---
 
 # 🚀 Sobre Mim
