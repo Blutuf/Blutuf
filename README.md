@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="assets" alt="Leonardo Banner">
-  </p>
-  
+  <img src="assets.png" alt="Leonardo Banner">
+</p>
+
+---
+
 # 👋 Hi, I'm Leonardo
 
 ### Front-end Developer from Brazil 🇧🇷
@@ -109,11 +111,9 @@ My current goal is to become a professional web developer and start working as a
 # 🌐 Connect with Me
 
 <p align="center">
-
-<a href="https://github.com/Blutuf">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://blutuf.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/🌐-Portfolio-2563EB?style=for-the-badge">
 </a>
-
 </p>
 
 ---
