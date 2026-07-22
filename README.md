@@ -1,12 +1,20 @@
-# Hi there, I'm Leonardo! 👋
+# 👋 Hi, I'm Leonardo
+
+### Front-end Developer from Brazil 🇧🇷
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front-end+Developer+in+Progress;Learning+HTML%2C+CSS+%26+JavaScript;Building+Modern+Websites;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
+  <b>🌐 Choose your preferred language</b><br><br>
+
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇺🇸-English-1F6FEB?style=for-the-badge" />
+  </a>
+
   <a href="README.pt-BR.md">
-    <img src="https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🇧🇷-Português-009C3B?style=for-the-badge" />
   </a>
 </p>
 
